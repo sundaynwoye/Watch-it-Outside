@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+.navbar {
+    background-color: #ffffff;
+}
+.navbar-brand {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 30px;
+}
+.header {
+    padding: 30px;
+    color: white;
+    background: linear-gradient(to right,rgba(255,255,255,0.2), rgba(56,56,56,0.9)),
+    					url("../images/header1.jpg") 0% 0%/cover no-repeat
+}
+hr {
+    border-top: 0.3px solid #ffffff;
+}
+.badge-success {
+    color: #191515;
+}
+.yellow {
+    background-color: #dfb636;
+}
+.btn {
+    color: white;
+    margin: 7px;
+}
+.six {
+    border: 15px solid #dfb636;
+}
+.img-thumbnail {
+    border: 0px;
+}
+.news, h4, time {
+    color: #b8b8b8;
+}
+.book-news {
+    padding: 40px;
+    background-color: #ffffff;
+}
+@media only screen and (min-width:768px) and (max-width:979px) {
+    #seats {
+        padding-left: 30px;
+    }
+}
+.four {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.brown {
+    background-color: #bb7b29;
+}
+.text-brown {
+    color: #bb7b29;
+}
+.footer {
+    padding: 40px;
+    background-color: #f3f3f3;
+}
+i {
+    font-size: 40px;
+    margin: 10px;
+}
+@media only screen and (max-width:600px) {
+    .right-border {
+        border-bottom: 15px solid #dfb636;
+    }
+}
+@media only screen and (min-width:600px) {
+    .right-border{
+        border-right: 15px solid #dfb636;
+    }
+}
