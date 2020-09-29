@@ -1,9 +1,10 @@
-# analyze-a-client-needs-for-their-film-festival
+# Analyze a client's needs for their film festival - Openclassrooms
 You are working for a freelance developer. Clara Dunn is the founder of Watch it outside events Co. and is organizing an outdoor film festival in Boston this year called ‘Watch it outside Boston edition’. She hopes to select and show films from August 5th to 8th in Boston Public Garden, a park in Boston that can hold up to 1,500 people. 🌉
 
 She wants to create an event that shows that films can appeal to audiences of all ages, and she wants her advertisements and publications to reflect that same idea!
 
 Clara has a budget of $3,500 to get the event website up and running. She needs to communicate online about her festival in order to announce the upcoming showings and take reservations!
+
 Here's what she says:
 
 My company, "Watch it Outside" just got the approval to show movies in Boston Public Garden this year from August 5th through 8th, from 6pm to midnight. We can't wait to help the public discover awesome films!
