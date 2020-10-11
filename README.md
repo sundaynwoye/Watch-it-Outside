@@ -29,13 +29,19 @@ Make your communication with the client easier by writing a document that puts y
 Create a project brief from the description above and the client’s requests. It must have the following elements:
 
 Summary
+
 Stakeholders
+
 Goals
+
 Budget
+
 Timeline
+
 Technical specifications (explanation of design and technical choices that were made, even if they're basic)
  
 Deliverables
+
 A project brief explaining your client's needs, including an explanation of the technologies you chose and why
 
 Your HTML and CSS source code (plus other files if necessary) your site does not need to be hosted online. 
